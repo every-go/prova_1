@@ -12,5 +12,7 @@ Processori
 
 ## Periferiche
 
+Tastiere
+
 ---
 Elettronica Padovana
