@@ -14,5 +14,7 @@ Processori
 
 Tastiere
 
+Mouse
+
 ---
 Elettronica Padovana
