@@ -2,6 +2,8 @@ Matteo Mazzaretto 2111005
 
 Marco Brunello 2110997
 
-Schede Madri
+Processore 1
 
-Processori
+Processore 2
+
+Processore 3
