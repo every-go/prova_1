@@ -12,5 +12,7 @@ Processori
 
 ## Periferiche
 
+Mouse
+
 ---
 Elettronica Padovana
